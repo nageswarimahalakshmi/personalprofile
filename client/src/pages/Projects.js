@@ -7,7 +7,7 @@ export default function Projects() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const apiURL = process.env.REACT_APP_API_URL || "http://localhost:5000";
+    const apiURL = process.env.NODE_ENV === "production" ? "" : "http://localhost:5000";
     axios.get(`${apiURL}/api/projects`)
       .then(res => {
         setProjects(res.data);
