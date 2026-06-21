@@ -83,11 +83,11 @@ npm run dev
 ## 📸 Screenshots
 
 #### 1. Home Page (Hero Section)
-![Home Page](./screenshots/home-page.png)
+![Home Page](./output/home.png)
 
 #### 2. Featured Projects Grid (Dynamic database fetch)
-![Projects Page](./screenshots/projects-page.png)
+![Projects Page](./output/projects.png)
 
 #### 3. Get In Touch (Contact Page)
-![Contact Page](./screenshots/contact-page.png)
+![Contact Page](./output/contact.png)
 
