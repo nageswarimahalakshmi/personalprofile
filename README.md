@@ -76,7 +76,7 @@ npm run dev
 
 ## 🔗 Live Demo
 
-- **Live Website**: [https://yourportfolio.vercel.app](https://yourportfolio.vercel.app)
+- **Live Website**: [https://personalprofile-im0rzb7pg-maha9.vercel.app/](https://personalprofile-im0rzb7pg-maha9.vercel.app/)
 
 ---
 
