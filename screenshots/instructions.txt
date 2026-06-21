@@ -1,0 +1,5 @@
+Save your screenshots in this folder with these exact names to show them in the README.md:
+
+1. Home Page: save as "home-page.png"
+2. Projects Page: save as "projects-page.png"
+3. Contact Page: save as "contact-page.png"
